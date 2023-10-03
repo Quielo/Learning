@@ -1,0 +1,1 @@
+Dir to study how to access dictionaries, sets and lists.

@@ -1,0 +1,1 @@
+I'm sorry, but your request is still unclear. Could you please specify what kind of software or system you want to be designed and implemented? For example, are you looking for a web application, a command-line tool, a library for a specific purpose, etc.? Also, please specify the programming language you want to use.
